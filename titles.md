@@ -1,1 +1,11 @@
-* The Internship
+  GNU nano 8.1                                      titles.md                                                 
+# Titles
+
+- A River Runs Through It
+- Fight Club
+- 12 Years a Slave
+- The Big Short
+- 12 Monkeys
+- The Curious Case of Benjamin Button
+
+
